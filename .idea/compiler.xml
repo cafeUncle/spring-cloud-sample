@@ -7,12 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="discovery" />
+        <module name="gateway" />
         <module name="service0" />
+        <module name="service1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="discovery" target="1.8" />
+      <module name="ear" target="1.8" />
+      <module name="ejbs" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="logging" target="1.8" />
+      <module name="primary-source" target="1.8" />
+      <module name="projects" target="1.8" />
       <module name="service0" target="1.8" />
+      <module name="service1" target="1.8" />
+      <module name="servlet" target="1.8" />
+      <module name="servlets" target="1.8" />
       <module name="spring-cloud-sample" target="1.8" />
     </bytecodeTargetLevel>
   </component>
