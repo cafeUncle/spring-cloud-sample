@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28488377-8a18-441d-aeca-09d4209c9d75" name="Default" comment="">
+    <list default="true" id="28488377-8a18-441d-aeca-09d4209c9d75" name="Default" comment="FeignClient">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/service0/target/classes/yangy_coder/service0/controller/Service0Controller.class" afterPath="$PROJECT_DIR$/service0/target/classes/yangy_coder/service0/controller/Service0Controller.class" />
       <change beforePath="$PROJECT_DIR$/service1/target/classes/yangy_coder/service1/client/Service0Client.class" afterPath="$PROJECT_DIR$/service1/target/classes/yangy_coder/service1/client/Service0Client.class" />
@@ -329,7 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1532608348081</updated>
       <workItem from="1532608349454" duration="6030000" />
-      <workItem from="1532693391072" duration="1134000" />
+      <workItem from="1532693391072" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="FeignClient">
       <created>1532694522890</created>
@@ -338,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532694522890</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FeignClient">
+      <created>1532694549962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532694549962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7164000" />
+    <option name="totallyTimeSpent" value="7186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
