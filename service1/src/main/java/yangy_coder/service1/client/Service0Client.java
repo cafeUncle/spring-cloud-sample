@@ -17,6 +17,6 @@ public interface Service0Client {
      * @return
      */
     @RequestMapping(method = RequestMethod.GET, path = "/test/{value}")
-    String test(@PathVariable String value);
+    String test(@PathVariable(value = "value") String value);
 
 }

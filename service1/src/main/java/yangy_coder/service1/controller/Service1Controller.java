@@ -14,7 +14,7 @@ public class Service1Controller {
     Service0Client service0Client;
 
     @RequestMapping(method = RequestMethod.GET, path="/test/{value}")
-    String test(@PathVariable String value) {
+    String test(@PathVariable(value="value") String value) {
         return service0Client.test(value);
     }
 }
